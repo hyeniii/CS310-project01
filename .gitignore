@@ -1,0 +1,7 @@
+*.jpeg
+*.ini
+*.lock
+*.jpg
+*.json
+__pycache__/
+.DS_Store
